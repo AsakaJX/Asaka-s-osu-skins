@@ -8,5 +8,5 @@
 # [Monko Edit](https://mega.nz/file/Y1VjxYSb#m1VRnqzokBR26BvcgdW6uoFgp67jQA-5M0dRTV17zc8) 
 ![](https://osu.ppy.sh/ss/17342350/6915)
 
-# [Talala's skin Asaka's edit](https://mega.nz/file/h8VXHapB#uRkJvBBgXWFery9BchFK6SQDyuFfbvVDf77Q8GyLNVY) 
+# [Talala's skin edit by Asaka](https://mega.nz/file/h8VXHapB#uRkJvBBgXWFery9BchFK6SQDyuFfbvVDf77Q8GyLNVY) 
 ![](https://osu.ppy.sh/ss/17342356/9c3e)
