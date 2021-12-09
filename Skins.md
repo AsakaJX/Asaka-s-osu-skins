@@ -1,4 +1,4 @@
-# Asaka's osu most used skins.
+# Asaka's osu! most used skins.
 
 # If link is down pm me in discord: あさか#0001
 
