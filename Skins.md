@@ -10,3 +10,6 @@
 
 # [Talala's skin edit by Asaka](https://mega.nz/file/h8VXHapB#uRkJvBBgXWFery9BchFK6SQDyuFfbvVDf77Q8GyLNVY) 
 ![](https://osu.ppy.sh/ss/17342356/9c3e)
+
+# [404 Skin Not Found v2](https://mega.nz/file/04FzhCAY#mMPpSzv57dtN97QS3c2H1xD421dKWhixGBRSrUB2fMA) 
+![](https://osu.ppy.sh/ss/17448784/41da)
