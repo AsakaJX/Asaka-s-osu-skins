@@ -2,7 +2,6 @@
 
 # If link is down pm me in discord: Asaka#0001
 
-# Current Skin
 # [Skadi Waverider DT](https://mega.nz/file/5stSVaLQ#GPZ9HNOrIRnytcoUHfn9mV_Yy5igEwhTO6KQ3Ze5QjE) 
 ![](https://osu.ppy.sh/ss/17621076/fbf8)
 
