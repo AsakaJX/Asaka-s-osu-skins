@@ -1,6 +1,10 @@
 # Asaka's osu! most frequently used skins.
 
-# If link is down pm me in discord: あさか#0001
+# If link is down pm me in discord: Asaka#0001
+
+# Current Skin
+# [Skadi Waverider DT](https://mega.nz/file/5stSVaLQ#GPZ9HNOrIRnytcoUHfn9mV_Yy5igEwhTO6KQ3Ze5QjE) 
+![](https://osu.ppy.sh/ss/17621076/fbf8)
 
 # [Rafis HDDT 2018 - 404 Cursor](https://mega.nz/file/4hUhXAja#zWWDvgU-giGrb5VXadSRwuQPQbfPppjCBfQKc9dQK7g) 
 ![](https://osu.ppy.sh/ss/17342341/4f69)
